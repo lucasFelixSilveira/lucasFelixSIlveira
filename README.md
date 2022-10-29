@@ -6,3 +6,5 @@ Sou um devenvolvedor Back e Front-end.
   <img src="https://github-readme-stats.vercel.app/api?username=lucasFelixSilveira&show_icons=true&theme=transparent&border_color=6F34ad&icon_color=6F34ad">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&show_icons=true&theme=transparent&border_color=6F34ad&icon_color=6F34ad">
 </div>
+
+##
