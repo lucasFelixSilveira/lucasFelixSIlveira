@@ -8,5 +8,6 @@ Sou um devenvolvedor Back e Front-end.
 </div>
 
 ##
-
-[<img src="[https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png](https://pnggrid.com/wp-content/uploads/2021/04/Gmail-Transparent-Logo-1536x1152.png)" width="25"/>](https://github.com/user/repository/subscription)
+[](<br>)
+[](<br>)
+[<img src="https://pnggrid.com/wp-content/uploads/2021/04/Gmail-Transparent-Logo-1536x1152.png" width="50"/>](mailto:contato.lucasdwbfff@gmail.com)
