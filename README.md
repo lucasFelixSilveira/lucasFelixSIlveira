@@ -10,7 +10,7 @@ Sou um devenvolvedor Back e Front-end.
 ##
 [](<br>)
 [](<br>)
-<div>
+<div align="center">
   <a href="mailto:contato.lucasdwbfff@gmail.com">
     <img src="https://pnggrid.com/wp-content/uploads/2021/04/Gmail-Transparent-Logo-1536x1152.png" width="50"/>
   </a> 
