@@ -1,4 +1,4 @@
-# Lucas - ☕ Full Stack
+# Lucas - ☕ 
 
 <div align="center">
   <h2>Basic information:</h2><br>
