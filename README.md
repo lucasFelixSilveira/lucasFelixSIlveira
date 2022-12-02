@@ -26,3 +26,5 @@
 - **Big projects:**
 - - **[FIreray](https://github.com/lucasFelixSilveira/FIreray)**
 - - - I've always had problems with system slowness when searching for data from an array in objects, so I decided to end these problems for good! I created FIreray, but she had awakened me great ideas, so I decided to turn it into a module for NPM
+- - **[Fsdb](https://github.com/lucasFelixSilveira/fsdb)**
+- - - Firebase has problems with large startups and usage complications. The mongoose is good but complex, so why not add them up and do better? That's what I did.
