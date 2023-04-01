@@ -1,28 +1,30 @@
-# Lucas - ☕ 
+<!-- markdownlint-disable MD033 MD051 MD053 -->
 
-<div align="center">
-  <h2>Basic information:</h2><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasFelixSilveira&show_icons=true&theme=transparent&border_color=6F34ad&icon_color=6F34ad">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&show_icons=true&theme=transparent&border_color=6F34ad&icon_color=6F34ad">
-</div>
+# Lucas F. Sil ☕
+### A simple Brazilian programmer who always holds on for the ease of use of his systems and data security
+## Want to know more?
+- **[🤗 See my website!](https://lucasfs.tk)**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1045802171146453124/1045802201693573180/image-removebg-preview_3.png?width=407&height=271">
-</div>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=lucasFelixSilveira&show_icons=true&theme=transparent&border_color=00000000&icon_color=6F34ad&text_color=cccccc">
+<br>
 
-##
+## <img align="right" width="140" src="https://media.discordapp.net/attachments/948340542939492432/1091576594918805514/image-removebg-preview_2.png?width=354&height=364">
 
-- **A little more:**
-- - I started programming with Node.js and it's always been my greatest passion!
-- - Incredibly, I started programming at the age of 10!
-- - As much as I'm a good programmer, and i put a lot of work into each project, I've always had problems with C Sharp.
-- - I was born in a small town in the interior of Minas Gerais!
-- - I always have great ideas in the shower. 😅
+<h3><details>
+<summary align="left">📦 Languages and tools</summary>
+<br>
 
-- **Big projects:**
-- - **[FIreray](https://github.com/lucasFelixSilveira/FIreray)**
-- - - I've always had problems with system slowness when searching for data from an array in objects, so I decided to end these problems for good! I created FIreray, but she had awakened me great ideas, so I decided to turn it into a module for NPM
+  ## Languages
+  ![My tools](https://skillicons.dev/icons?i=js,html,css,markdown,arduino,py,nodejs)
+  <br>
+  ## Tools
+  ![My tools](https://skillicons.dev/icons?i=git,github,discord,npm)
+
+</details></h3>
+
+<br>
+<br>
+
+#### Hello World! I have some ambitious projects, would I like to help them? Are you Brazilian? Make a **PIX**!
+- `lucasdwbfff@gmail.com`
