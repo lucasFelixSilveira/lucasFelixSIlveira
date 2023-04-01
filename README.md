@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD051 MD053 -->
 
-# Lucas F. Sil ☕
+# Lucas F. Sil ☕ <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=lucasFelixSilveira.visitor-badge" />
 ### A simple Brazilian programmer who always holds on for the ease of use of his systems and data security
 ## Want to know more?
 - **[🤗 See my website!](https://lucasfs.tk)**
