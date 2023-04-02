@@ -19,7 +19,7 @@
   ![My tools](https://skillicons.dev/icons?i=js,html,css,markdown,arduino,py,nodejs)
   <br>
   ## Tools
-  ![My tools](https://skillicons.dev/icons?i=git,github,discord,npm)
+  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase)
 
 </details></h3>
 
@@ -35,5 +35,5 @@
 <br>
 <br>
 <h5 align="center">
-  Contact Email: contato.lucasdwbfff@gmail.com 
+  Contact Email: contato.lucasdwbfff@gmail.com <br> Donation: <a href="https://www.buymeacoffee.com/lucasdwbffM">Here!</a>
 </h5>
