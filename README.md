@@ -19,7 +19,7 @@
   ![My tools](https://skillicons.dev/icons?i=js,html,css,markdown,arduino,py,nodejs,php,java)
   <br>
   ## Tools
-  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode)
+  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode,vercel,replit)
   ## Frameworks
   ![My tools](https://skillicons.dev/icons?i=nextjs,react,electron,express)
   
