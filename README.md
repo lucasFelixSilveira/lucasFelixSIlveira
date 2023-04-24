@@ -6,9 +6,15 @@
 - **[🤗 See my website!](https://lucasfs.tk)**
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=lucasFelixSilveira&show_icons=true&theme=transparent&border_color=00000000&icon_color=6F34ad&text_color=cccccc">
-<br>
+<div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=lucasFelixSilveira&show_icons=true&theme=transparent&border_color=00000000&icon_color=6F34ad&text_color=cccccc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasFelixSilveira&node=wekly&theme=transparent&border_color=00000000&icon_color=6F34ad&text_color=cccccc">
+
+</div>
+  
 ## <img align="right" width="140" src="https://media.discordapp.net/attachments/948340542939492432/1091576594918805514/image-removebg-preview_2.png?width=354&height=364">
 
 <h3><details>
