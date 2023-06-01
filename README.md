@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=lucasFelixSilveira&show_icons=true&theme=transparent&border_color=00000000&icon_color=6F34ad&text_color=cccccc)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasFelixSilveira)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@lucasFelixSilveira/9ec76353-db06-47d7-9cf3-ee4ffe6f0072.png" /></a>
 
 </div>
   
