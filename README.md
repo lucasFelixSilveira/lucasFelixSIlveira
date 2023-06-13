@@ -4,6 +4,7 @@
 ### A simple Brazilian programmer who always holds on for the ease of use of his systems and data security
 ## Want to know more?
 - **[🤗 See my website!](https://lucasfs.tk)**
+- I always have the best ideas while I'm in the bath.
 
 <br>
 <div align="center">
