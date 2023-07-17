@@ -5,10 +5,10 @@
 ## Want to know more?
 - **[🤗 See my website!](https://lucasfs.tk)**
 - [💚 Want a quality host? Discloud is your best option. ☁](https://discloudbot.com)
-- [Click here to add me or contact me on Discord!](https://lucasfs.tk/dc)
-- I hate c#, but I use :)
-- I always have the best ideas while I'm in the bath.
-- 私は日本の文化に信じられないほどの憧れを持っています。
+- [🤖 Click here to add me or contact me on Discord!](https://lucasfs.tk/dc)
+- 😡 I hate c#, but I use :)
+- 💧 I always have the best ideas while I'm in the bath.
+- 🍥 私は日本の文化に信じられないほどの憧れを持っています。
 
 <br>
 <div align="center">
