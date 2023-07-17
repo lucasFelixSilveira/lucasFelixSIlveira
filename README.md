@@ -4,9 +4,10 @@
 ### A simple Brazilian programmer who always holds on for the ease of use of his systems and data security
 ## Want to know more?
 - **[🤗 See my website!](https://lucasfs.tk)**
-- I hate c#, but I use :)
 - [💚 Want a quality host? Discloud is your best option. ☁](https://discloudbot.com)
+- I hate c#, but I use :)
 - I always have the best ideas while I'm in the bath.
+- 私は日本の文化に信じられないほどの憧れを持っています。
 
 <br>
 <div align="center">
