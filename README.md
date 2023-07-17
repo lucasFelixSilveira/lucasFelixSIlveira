@@ -8,6 +8,7 @@
 - [🤖 Click here to add me or contact me on Discord!](https://lucasfs.tk/dc)
 - 😡 I hate c#, but I use :)
 - 💧 I always have the best ideas while I'm in the bath.
+- 💜 Purple is my favorite color.
 - 🍙 私は日本の文化に信じられないほどの憧れを持っています。
 
 <br>
