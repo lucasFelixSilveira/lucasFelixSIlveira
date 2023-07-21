@@ -1,6 +1,12 @@
 <!-- markdownlint-disable MD033 MD051 MD053 -->
 
-# Lucas F. Sil ☕ 
+<div align="right">
+
+ [![visitants](https://komarev.com/ghpvc/?username=lucasFelixSilveira&color=blue)](https://github.com/lucasFelixSilveira)
+  
+</div>
+
+# Lucas F. Sil ☕
 ### A simple Brazilian programmer who always holds on for the ease of use of his systems and data security
 ## Want to know more?
 - **[🤗 See my website!](https://lucasfs.tk)**
@@ -19,6 +25,12 @@
   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasFelixSilveira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<hr>
+<h5 align="center">——————————— My Discord ———————————</h5>
+<p align="center">
+  <img alt="Discord" src="https://discord.c99.nl/widget/theme-4/809876352915341342.png" />
+</p>
   
 ## <img align="right" width="140" src="https://media.discordapp.net/attachments/948340542939492432/1091576594918805514/image-removebg-preview_2.png?width=354&height=364">
 
