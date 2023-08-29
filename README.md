@@ -27,7 +27,7 @@
 <br>
 
   ## Languages
-  ![My tools](https://skillicons.dev/icons?i=js,html,css,markdown,arduino,py,nodejs,rust,php,java)
+  ![My tools](https://skillicons.dev/icons?i=js,html,css,markdown,arduino,py,nodejs,rust,php,java,c,cs)
   <br>
   ## Tools
   ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode,vercel,replit)
