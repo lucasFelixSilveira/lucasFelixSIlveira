@@ -27,12 +27,12 @@
 <br>
 
   ## Languages
-  ![My tools](https://skillicons.dev/icons?i=js,html,css,markdown,arduino,py,nodejs,rust,php,java,c,cs)
+  ![My tools](https://skillicons.dev/icons?i=js,html,css,markdown,arduino,py,nodejs,rust,php,java,c,cs,kotlin,go,typescript)
   <br>
   ## Tools
-  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode,vercel,replit)
+  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode,vercel,replit,androidstudio)
   ## Frameworks
-  ![My tools](https://skillicons.dev/icons?i=nextjs,react,electron,express)
+  ![My tools](https://skillicons.dev/icons?i=nextjs,react,electron,express,svelte) 
 
 
 </details></h3>
