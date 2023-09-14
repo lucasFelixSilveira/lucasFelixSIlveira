@@ -28,9 +28,18 @@
 
   ## Languages
   ![My tools](https://skillicons.dev/icons?i=js,html,css,markdown,arduino,py,nodejs,rust,php,java,c,cs,kotlin,go,typescript)
+  ### interest in languages
+  - 💜 I love: JavaScript (Server-side), Rust, Go and C
+  - 😁 I like: Kotlin and Typescript (Ugly), JavaScript (Client-side)
+  - 🤨 I only use it when needed: Python, Java and PHP
+  - 😔 Very specific cases: Arduino, C#
+  - 📄 Markup and styling languages: HTML, CSS and Markdown
+  - 🤬 Especially hateful: C#
+
   <br>
+
   ## Tools
-  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode,vercel,replit,androidstudio)
+  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode,vercel,replit,androidstudio,figma)
   ## Frameworks
   ![My tools](https://skillicons.dev/icons?i=nextjs,react,electron,express,svelte) 
 
