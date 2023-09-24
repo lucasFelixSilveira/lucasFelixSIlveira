@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=lucasFelixSilveira&show_icons=true&theme=transparent&border_color=00000000&icon_color=6F34ad&text_color=cccccc)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasFelixSilveira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasFelixSilveira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
   
