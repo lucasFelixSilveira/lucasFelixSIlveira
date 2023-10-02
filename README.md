@@ -29,7 +29,7 @@
   ## Languages
   ![My tools](https://skillicons.dev/icons?i=js,html,css,markdown,arduino,py,nodejs,rust,php,java,cs,kotlin,go,typescript,zig)
   ### interest in languages
-  - 💜 I love: JavaScript (Server-side), Rust, Go
+  - 💜 I love: JavaScript (Server-side), Rust, Go, Zig
   - 😁 I like: Kotlin, Typescript (Ugly) and JavaScript (Client-side)
   - 🤨 I only use it when needed: Python, Java and PHP
   - 😔 Very specific cases: Arduino, C#
