@@ -11,6 +11,8 @@
 - 💜 Purple is my favorite color.
 - 🍙 私は日本の文化に信じられないほどの憧れを持っています。
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LGrow&repo=LGrow&show_icons=true&theme=transparent&border_color=ccc50&show_owner=true&icon_color=6F34ad&text_color=cccccc)](https://github.com/LGrow/LGrow)
+
 <br>
 <div align="center">
 
