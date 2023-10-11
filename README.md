@@ -34,7 +34,7 @@
   
   ![My tools](https://skillicons.dev/icons?i=typescript,zig,c,cpp)
   ### interest in languages
-  - 💜 I love: JavaScript (Server-side), Rust, Go, Zig, C, C++
+  - 💜 I love: JavaScript (Server-side), Rust, Go, Zig, C and C++
   - 😁 I like: Kotlin, Typescript (Ugly) and JavaScript (Client-side)
   - 🤨 I only use it when needed: Python
   - 😔 Very specific cases: C# and PHP
