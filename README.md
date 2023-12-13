@@ -30,7 +30,7 @@
   ![My tools](https://skillicons.dev/icons?i=html,css,markdown)
   <hr>
 
-  ![My tools](https://skillicons.dev/icons?i=py,js,rust,php,cs,kotlin,go,java)
+  ![My tools](https://skillicons.dev/icons?i=py,js,rust,kotlin,go)
   
   ![My tools](https://skillicons.dev/icons?i=typescript,zig,c,cpp)
   ### interest in languages
