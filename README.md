@@ -30,9 +30,8 @@
   ![My tools](https://skillicons.dev/icons?i=html,css,markdown)
   <hr>
 
-  ![My tools](https://skillicons.dev/icons?i=py,js,rust,kotlin,go)
+  ![My tools](https://skillicons.dev/icons?i=py,js,rust,kotlin,go,typescript,zig,c,cpp)
   
-  ![My tools](https://skillicons.dev/icons?i=typescript,zig,c,cpp)
   ### interest in languages
   - 💜 I love: JavaScript (Server-side), Rust, Go, Zig, C and C++
   - 😁 I like: Kotlin, Typescript (Ugly) and JavaScript (Client-side)
