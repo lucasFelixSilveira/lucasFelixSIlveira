@@ -29,8 +29,10 @@
   ## Languages
   ![My tools](https://skillicons.dev/icons?i=html,css,markdown)
   <hr>
-
-  ![My tools](https://skillicons.dev/icons?i=py,js,rust,kotlin,go,typescript,zig,c,cpp)
+  <div>
+    <img src="https://imgur.com/CZ3pw4E.png" width="50" height="50" >
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,go,kotlin,ts,js" height="50" >
+  </div>
   
   ### interest in languages
   - 💜 I love: JavaScript (Server-side), Rust, Go, Zig, C and C++
@@ -49,7 +51,7 @@
   <br>
 
   ## Tools
-  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode,vercel,replit,androidstudio,figma)
+  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode,vercel,replit,androidstudio,figma,linux)
   ## Frameworks
   ![My tools](https://skillicons.dev/icons?i=nextjs,react,electron,express,svelte) 
 
