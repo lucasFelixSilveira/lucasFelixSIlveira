@@ -28,21 +28,13 @@
 
   ## Languages
   ![My tools](https://skillicons.dev/icons?i=html,css,markdown)
-  <hr>
+  ##
   <div>
     <img src="https://imgur.com/CZ3pw4E.png" width="50" height="50" >
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,go,kotlin,ts,js" height="50" >
   </div>
-  
-  ### interest in languages
-  - 💜 I love: JavaScript (Server-side), Rust, Go, Zig, C and C++
-  - 😁 I like: Kotlin, Typescript (Ugly) and JavaScript (Client-side)
-  - 🤨 I only use it when needed: Python
-  - 😔 Very specific cases: C# and PHP
-  - 📄 Markup and styling languages: HTML, CSS and Markdown
-  - 🤬 Especially hateful: C#
 
-  <hr>
+  ##
   
   ### JavaScript runtimes
 
