@@ -20,7 +20,7 @@
 
 </div>
   
-## <img align="right" width="140" src="https://media.discordapp.net/attachments/948340542939492432/1091576594918805514/image-removebg-preview_2.png?width=354&height=364">
+## <img align="right" width="140" src="https://media.discordapp.net/attachments/948340542939492432/1091576594918805514/image-removebg-preview_2.png?ex=6610cc6c&is=65fe576c&hm=870b24c3949982219f15d031316d5d394597b361dd21233dd35033ca2ad2ed6d&=&format=webp&quality=lossless&width=332&height=341">
 
 <h3><details>
 <summary align="left">📦 Languages and tools</summary>
