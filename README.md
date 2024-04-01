@@ -31,7 +31,7 @@
   ##
   <div>
     <img src="https://imgur.com/CZ3pw4E.png" width="50" height="50" >
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,go,swift,kotlin,ts,js,py,arduino" height="50" >
+    <img src="https://skillicons.dev/icons?i=c,cpp,perl,rust,zig,go,swift,kotlin,ts,js,py,arduino" height="50" >
   </div>
 
   ##
