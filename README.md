@@ -43,7 +43,7 @@
   <br>
 
   ## Tools
-  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode,vercel,replit,androidstudio,figma,linux)
+  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode,vercel,replit,androidstudio,figma,linux,emacs)
   ## Frameworks
   ![My tools](https://skillicons.dev/icons?i=nextjs,react,electron,express,svelte) 
 
