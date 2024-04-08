@@ -31,7 +31,8 @@
   ##
   <div>
     <img src="https://imgur.com/CZ3pw4E.png" width="50" height="50" >
-    <img src="https://skillicons.dev/icons?i=c,cpp,perl,rust,zig,go,swift,kotlin,ts,js,py,arduino" height="50" >
+  <img src="https://imgur.com/7ND91eF.png" width="50" height="50" >
+    <img src="https://skillicons.dev/icons?i=perl,c,cpp,rust,zig,go,swift,kotlin,ts,js,py,arduino" height="50" >
   </div>
 
   ##
@@ -43,7 +44,7 @@
   <br>
 
   ## Tools
-  ![My tools](https://skillicons.dev/icons?i=git,github,discord,mongodb,firebase,vscode,vercel,replit,androidstudio,figma,linux,emacs)
+  ![My tools](https://skillicons.dev/icons?i=emacs,vscode,replit,androidstudio,git,github,mongodb,firebase,vercel,figma,linux)
   ## Frameworks
   ![My tools](https://skillicons.dev/icons?i=nextjs,react,electron,express,svelte) 
 
