@@ -18,7 +18,7 @@
 
 </div>
   
-## <img align="right" width="140" src="https://media.discordapp.net/attachments/948340542939492432/1091576594918805514/image-removebg-preview_2.png?ex=6610cc6c&is=65fe576c&hm=870b24c3949982219f15d031316d5d394597b361dd21233dd35033ca2ad2ed6d&=&format=webp&quality=lossless&width=332&height=341">
+## <img align="right" width="140" src="https://imgur.com/7JZvEcG.png">
 
 <h3><details>
 <summary align="left">📦 Languages and tools</summary>
@@ -49,13 +49,6 @@
 
 </details></h3>
 
-<br>
-<br>
-<br>
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BFlex-lang&repo=BFlex&show_icons=true&theme=transparent&border_color=ccc50&show_owner=true&icon_color=6F34ad&text_color=cccccc)](https://github.com/LGrow/LGrow)-->
-
-<br>
 <br>
 <br>
 
