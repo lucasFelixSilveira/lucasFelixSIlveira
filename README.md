@@ -3,9 +3,7 @@
 # Lucas F. Sil ☕
 ### A simple Brazilian programmer who always holds on for the ease of use of his systems and data security
 ## Want to know more?
-- **[🤗 See my website!](https://lucasfs.tk)**
-- [💚 Want a quality host? Discloud is your best option. ☁](https://discloudbot.com)
-- [🤖 Click here to add me or contact me on Discord!](https://lucasfs.tk/dc)
+- **[🤗 See my language website!](https://bflex.tech)**
 - 😡 I hate c#, but I use :)
 - 💧 I always have the best ideas while I'm in the bath.
 - 💜 Purple is my favorite color.
