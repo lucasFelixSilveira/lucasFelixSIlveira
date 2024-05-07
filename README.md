@@ -53,20 +53,12 @@
 <br>
 <br>
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LGrow&repo=LGrow&show_icons=true&theme=transparent&border_color=ccc50&show_owner=true&icon_color=6F34ad&text_color=cccccc)](https://github.com/LGrow/LGrow)-->
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BFlex-lang&repo=BFlex&show_icons=true&theme=transparent&border_color=ccc50&show_owner=true&icon_color=6F34ad&text_color=cccccc)](https://github.com/LGrow/LGrow)-->
 
 <br>
 <br>
 <br>
 
-
-#### Hello World! I have some ambitious projects, would I like to help them? Are you Brazilian? Make a **PIX**!
-- `lucasdwbfff@gmail.com`
-
-<br>
-<br>
-<br>
-<br>
 <h5 align="center">
   Contact Email: contato.lucasdwbfff@gmail.com <br> Donation: <a href="https://www.buymeacoffee.com/lucasdwbffM">Here!</a>
 </h5>
