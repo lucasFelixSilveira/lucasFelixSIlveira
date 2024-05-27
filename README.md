@@ -4,7 +4,6 @@
 ### A simple Brazilian programmer who always holds on for the ease of use of his systems and data security
 ## Want to know more?
 - **🤗 [See my language website!](https://bflex.tech)**
-- 😡 I hate c#, but I use :)
 - 💧 I always have the best ideas while I'm in the bath.
 - 💜 Purple is my favorite color.
 - 🍙 私は日本の文化に信じられないほどの憧れを持っています。
@@ -51,5 +50,5 @@
 <br>
 
 <h5 align="center">
-  Contact Email: contato.lucasdwbfff@gmail.com <br> Donation: <a href="https://www.buymeacoffee.com/lucasdwbffM">Here!</a>
+  Contact Email: contato.lucasdwbfff@gmail.com
 </h5>
