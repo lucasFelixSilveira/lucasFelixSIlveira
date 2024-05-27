@@ -30,7 +30,7 @@
   <div>
     <img src="https://imgur.com/CZ3pw4E.png" width="50" height="50" >
   <img src="https://imgur.com/7ND91eF.png" width="50" height="50" >
-    <img src="https://skillicons.dev/icons?i=perl,c,cpp,rust,zig,go,swift,kotlin,ts,js,py,arduino" height="50" >
+    <img src="https://skillicons.dev/icons?i=perl,c,cpp,lua,rust,zig,go,swift,ts,js,py,arduino" height="50" >
   </div>
 
   ##
