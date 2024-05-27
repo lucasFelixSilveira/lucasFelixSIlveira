@@ -33,12 +33,6 @@
     <img src="https://skillicons.dev/icons?i=perl,c,cpp,lua,rust,zig,go,swift" height="50" >
   </div>
 
-  ##
-  
-  ### JavaScript runtimes
-
-  ![My tools](https://skillicons.dev/icons?i=nodejs,deno)
-
   <br>
   <br>
   <br>
