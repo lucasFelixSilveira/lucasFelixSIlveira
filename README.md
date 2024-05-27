@@ -35,8 +35,6 @@
 
   <br>
   <br>
-  <br>
-  <br>
 
   ## Tools
   ![My tools](https://skillicons.dev/icons?i=emacs,vscode,git,github,vercel,linux)
