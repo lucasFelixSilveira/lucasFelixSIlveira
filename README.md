@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD051 MD053 -->
 
-# Lucas F. Sil ☕
+# Lucas Silveira ☕
 ### [BFlex](https://github.com/BFlex-lang)'s Developer - A coffee, a keyboard and a life. 
 ## Want to know more?
 - **🤗 [See my language website!](https://bflex.tech)**
