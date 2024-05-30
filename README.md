@@ -4,7 +4,6 @@
 ### [BFlex](https://bflex.tech/)'s Developer - A coffee, a keyboard and a life. 
 ## Want to know more?
 - **🤗 [See my language website!](https://bflex.tech)**
-- 💧 I always have the best ideas while I'm in the bath.
 - 💜 Purple is my favorite color.
 - 🍙 私は日本の文化に信じられないほどの憧れを持っています。
 - `14y`
