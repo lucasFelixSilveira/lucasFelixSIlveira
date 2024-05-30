@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD051 MD053 -->
 
 # Lucas F. Sil ☕
-### [BFlex](https://bflex.tech/)'s Developer - A coffee, a keyboard and a life. 
+### [BFlex](https://github.com/BFlex-lang)'s Developer - A coffee, a keyboard and a life. 
 ## Want to know more?
 - **🤗 [See my language website!](https://bflex.tech)**
 - 💜 Purple is my favorite color.
