@@ -9,43 +9,23 @@
 - 🍙 私は日本の文化に信じられないほどの憧れを持っています。
 
 <br>
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=lucasFelixSilveira&show_icons=true&theme=transparent&border_color=00000000&icon_color=6F34ad&text_color=cccccc)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](#)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasFelixSilveira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](#)
-
-</div>
-  
-## <img align="right" width="140" src="https://imgur.com/7JZvEcG.png">
-
 <h3><details>
-<summary align="left">📦 Languages and tools</summary>
+<summary align="left">See more</summary>
 <br>
-
-  ## Languages
-  ![My tools](https://skillicons.dev/icons?i=html,css,markdown)
-  ##
+  <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff&hide_progress=true" alt="Top Langs">
+</div>
+   <div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasFelixSilveira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff" alt"time codding">
+</div></details>
+</h3>
+<hr>
+<div align="center">
   <div>
     <img src="https://imgur.com/CZ3pw4E.png" width="50" height="50" >
   <img src="https://imgur.com/7ND91eF.png" width="50" height="50" >
     <img src="https://skillicons.dev/icons?i=perl,c,cpp,lua,rust,zig,go,swift" height="50" >
   </div>
-
-  <br>
-  <br>
-
-  ## Tools
-  ![My tools](https://skillicons.dev/icons?i=emacs,vscode,git,github,vercel,linux)
-
-
-</details></h3>
-
-<br>
-<br>
-<br>
-<br>
-<br>
+</div>
 <br>
 <br>
 
