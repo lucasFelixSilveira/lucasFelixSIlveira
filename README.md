@@ -10,7 +10,7 @@
 
 <br>
 <h3><details>
-<summary align="left">See more</summary>
+<summary align="left">Personal stats</summary>
 <br>
   <div align="center">
 </div>
