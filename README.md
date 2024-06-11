@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff&hide_progress=true" alt="Top Langs">
 </div>
 <!--    <div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasFelixSilveira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff" alt"time codding"> -->
-   <div align="center"> <img src="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=0dcd4a43-93dc-40ef-aedc-02527055b1ee" alt="time coding"> </div>
+   <div align="center"> <img width="60%" src="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=0dcd4a43-93dc-40ef-aedc-02527055b1ee" alt="time coding"> </div>
 </div></details>
 </h3>
 <hr>
