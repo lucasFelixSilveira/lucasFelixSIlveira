@@ -19,7 +19,7 @@
      <img height="500px" src="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=0dcd4a43-93dc-40ef-aedc-02527055b1ee" alt="time coding"> 
    </div>
    <div align="right">
-     <p>To use this display, visit https://github.com/lucasFelixSilveira/personal-wakatime</p>
+     <p>To use this display, visit <a href="https://github.com/lucasFelixSilveira/personal-wakatime">this repo</a></p>
    </div>
 </div></details>
 </h3>
