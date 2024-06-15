@@ -18,7 +18,7 @@
      <img height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&layout=pie&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0" alt="Top Langs">
      <img height="500px" src="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=0dcd4a43-93dc-40ef-aedc-02527055b1ee" alt="time coding"> 
    </div>
-   <div align="right">
+   <div align="center">
      <p>To use this display, visit <a href="https://github.com/lucasFelixSilveira/personal-wakatime">this repo</a></p>
    </div>
 </div></details>
