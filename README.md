@@ -25,7 +25,7 @@
 <h3><details>
 <summary align="left">Main projects</summary>
   
-- ##### [IDE](https://github.com/lucasFelixSilveira/ide) - A simple terminal IDEA inspired by VIM
+- ##### [IDE](https://github.com/lucasFelixSilveira/ide) - A simple terminal IDE inspired by VIM
 </details>
 </h3>
 <hr>
