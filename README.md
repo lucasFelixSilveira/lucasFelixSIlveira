@@ -27,8 +27,8 @@
 <div align="center">
   <div>
     <img src="https://imgur.com/CZ3pw4E.png" width="50" height="50" >
-    <img src="https://imgur.com/7ND91eF.png" width="50" height="50" >
-    <img src="https://skillicons.dev/icons?i=perl,c,cpp,lua,rust,zig,go,swift" height="50" >
+<!--     <img src="https://imgur.com/7ND91eF.png" width="50" height="50" > -->
+    <img src="https://skillicons.dev/icons?i=perl,c,cpp,lua,rust,zig,go" height="50" >
   </div>
 </div>
 <br>
