@@ -7,7 +7,6 @@
 - 🍙 私は日本の文化に信じられないほどの憧れを持っています。
 - `14y`
 
-<br>
 <h3><details>
 <summary align="left">Personal stats</summary>
 <br>
