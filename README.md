@@ -23,6 +23,12 @@
    </div>
 </div></details>
 </h3>
+<h3><details>
+<summary align="left">Main projects</summary>
+  
+- ##### [IDE](https://github.com/lucasFelixSilveira/ide) - A simple terminal IDEA inspired by VIM
+</details>
+</h3>
 <hr>
 <div align="center">
   <div>
