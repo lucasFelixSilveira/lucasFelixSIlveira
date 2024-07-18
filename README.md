@@ -4,7 +4,7 @@
 ## Want to know more?
 - **🤗 [See my language website!](https://bflex.tech)**
 - 💜 Purple is my favorite color.
-- 🍙 私は日本の文化に信じられないほどの憧れを持っています。
+- 🍙 日本語を勉強する。
 - `15y`
 
 <h3><details>
