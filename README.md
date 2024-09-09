@@ -25,7 +25,6 @@
 <h3><details>
 <summary align="left">Main projects</summary>
   
-- ##### [IDE](https://github.com/lucasFelixSilveira/ide) - A simple terminal IDE inspired by VIM
 - ##### [BFlex Financial](https://github.com/BFlex-financial) - the best financial service
 </details>
 </h3>
