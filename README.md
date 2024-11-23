@@ -14,11 +14,7 @@
 
 <div align="center">
   <div>
-    <img src="https://imgur.com/CZ3pw4E.png" width="35" height="35" >
-    <img src="https://skillicons.dev/icons?i=perl,c,java,ruby,rust,zig,go" height="35" >
+    <img src="https://imgur.com/CZ3pw4E.png" width="37" height="37" >
+    <img src="https://skillicons.dev/icons?i=perl,c,java,ruby,rust,zig,go" height="37" >
   </div>
-</div>
-
-<h6 align="center">
-  Contact Email: contato.lucasdwbfff@gmail.com
-</h6>
+</div
