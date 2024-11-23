@@ -14,8 +14,8 @@
 
 <div align="center">
   <div>
-    <img src="https://imgur.com/CZ3pw4E.png" width="50" height="50" >
-    <img src="https://skillicons.dev/icons?i=perl,c,java,ruby,rust,zig,go" height="50" >
+    <img src="https://imgur.com/CZ3pw4E.png" width="50" height="35" >
+    <img src="https://skillicons.dev/icons?i=perl,c,java,ruby,rust,zig,go" height="35" >
   </div>
 </div>
 
