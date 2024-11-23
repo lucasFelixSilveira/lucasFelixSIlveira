@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD051 MD053 -->
 # Lucas Silveira ☕
-### [BFlex](https://github.com/BFlex-lang)'s Developer - A coffee, a keyboard and a life. 
+### [BFlex](https://github.com/BFlex-financial)'s Developer - A coffee, a keyboard and a life. 
 - `Freedom for all.` / `Programming is therapy!`
 ## Want to know more?
 - **🤗 [See my language website!](https://bflex.tech)**
