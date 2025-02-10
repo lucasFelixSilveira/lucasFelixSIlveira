@@ -1,5 +1,5 @@
 ## Lucas Silveira ☕
-#### [BFlex](https://github.com/BFlex-financial)'s Developer - A coffee, a keyboard and a life. 
+#### [BFlex Group](https://github.com/BFlex-financial)'s Developer - A coffee, a keyboard and a life. 
 - ` Programming is therapy! 🙏` | ` 日本語を勉強する 🎓 ` | ` 15y `
 <h5>
   <details>
