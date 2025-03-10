@@ -35,6 +35,20 @@
             <img width="900px" src="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=2ebaf108-ed67-4b8a-bf58-e5a2edc09928" alt="time coding">
           </td>
         </tr> 
+        <tr>
+          <td>
+            <img src="https://github-readme-stats.vercel.app/api/pin?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla">
+          </td>
+          <td>
+            <h2>My own programming language</h2>
+            <p>Meet Carla, the new programming language, with the simplicity of C, and the modernity of Rust</p>
+            <a href="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=2ebaf108-ed67-4b8a-bf58-e5a2edc09928" target="_blank">
+              <img height="32px" src="https://img.shields.io/badge/Meet%20Carla-1d1d1d">
+            </a>
+            <br>
+            <br>
+          </td>
+        </tr>
       </table>
     </div>
   </details>
