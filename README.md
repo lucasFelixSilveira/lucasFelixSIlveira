@@ -42,7 +42,7 @@
           <td>
             <h2>My own programming language</h2>
             <p>Meet Carla, the new programming language, with the simplicity of C, and the modernity of Rust</p>
-            <a href="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=2ebaf108-ed67-4b8a-bf58-e5a2edc09928" target="_blank">
+            <a href="https://github.com/lucasFelixSilveira/carla" target="_blank">
               <img height="32px" src="https://img.shields.io/badge/Meet%20Carla-1d1d1d">
             </a>
             <br>
