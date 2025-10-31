@@ -26,7 +26,7 @@
             <center>
               <h2>My time coding in each language</h2>
               <p>The time I have spent in each language in total is certainly not exactly this. For example: I migrated from an accountant, and I had to add the hours in the code of my repository, personal-wakatime. And of course, this does not compute my time programming outside of Vscode.</p>
-              <a href="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=2ebaf108-ed67-4b8a-bf58-e5a2edc09928" target="_blank">
+              <a href="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=0363f60b-3818-424a-8359-e51b05aabd6b" target="_blank">
                 <img height="32px" src="https://img.shields.io/badge/See%20enlarged%20scale-5c0a5c">
               </a>
             </center>
