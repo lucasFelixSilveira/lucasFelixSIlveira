@@ -58,6 +58,6 @@
   <div>
     <img src="https://imgur.com/CZ3pw4E.png" width="37" height="37" >
     <img src="https://imgur.com/qhtSaWM.png" width="37" height="37" >
-    <img src="https://skillicons.dev/icons?i=perl,c,java,go,rust,zig,dart" height="37" >
+    <img src="https://skillicons.dev/icons?i=perl,c,cpp,java,go,rust,zig,dart" height="37" >
   </div>
 </div>
