@@ -13,7 +13,7 @@
               <h2>Most used languages in my public repositories</h2>
               <p>Always remember that this only shows the percentage of language usage, only in my public repositories! Organizations, and private repositories ARE NOT COMPUTED.</p>
               <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&layout=pie&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0" target="_blank">
-                <img height="32px" src="https://img.shields.io/badge/See%20enlarged%20scale-5c0a5c">
+                <img width="160px" src="https://img.shields.io/badge/See%20enlarged%20scale-5c0a5c">
               </a>
             </center>
           </td>
@@ -28,7 +28,7 @@
               <h2>My time coding in each language</h2>
               <p>The time I have spent in each language in total is certainly not exactly this. For example: I migrated from an accountant, and I had to add the hours in the code of my repository, personal-wakatime. And of course, this does not compute my time programming outside of Vscode.</p>
               <a href="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=0363f60b-3818-424a-8359-e51b05aabd6b" target="_blank">
-                <img height="32px" src="https://img.shields.io/badge/See%20enlarged%20scale-5c0a5c">
+                <img width="160px" src="https://img.shields.io/badge/See%20enlarged%20scale-5c0a5c">
               </a>
             </center>
           </td>
@@ -38,13 +38,14 @@
         </tr> 
         <tr>
           <td>
-            <img src="https://github-readme-stats.vercel.app/api/pin?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla">
+            <!-- <img src="https://github-readme-stats.vercel.app/api/pin?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla"> -->
+            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla" alt="Carla"> 
           </td>
           <td>
             <h2>My own programming language</h2>
             <p>Meet Carla, the new programming language, with the simplicity of C, and the modernity of Rust</p>
             <a href="https://github.com/lucasFelixSilveira/carla" target="_blank">
-              <img height="32px" src="https://img.shields.io/badge/Meet%20Carla-1d1d1d">
+              <img width="100px" src="https://img.shields.io/badge/Meet%20Carla-1d1d1d">
             </a>
             <br>
             <br>
