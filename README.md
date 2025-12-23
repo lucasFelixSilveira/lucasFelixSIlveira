@@ -51,6 +51,21 @@
             <br>
           </td>
         </tr>
+        <tr>
+          <td>
+            <!-- <img src="https://github-readme-stats.vercel.app/api/pin?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla"> -->
+            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=morgana" alt="Morgana"> 
+          </td>
+          <td>
+            <h2>My own IR language</h2>
+            <p>Meet Morgana, the new IR language, simple and complation-time-fast than LLVM</p>
+            <a href="https://github.com/lucasFelixSilveira/carla" target="_blank">
+            <img width="130px" src="https://img.shields.io/badge/Meet%20Morgana-dd71ba">
+            </a>
+            <br>
+            <br>
+          </td>
+        </tr>
       </table>
     </div>
   </details>
