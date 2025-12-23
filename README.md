@@ -80,5 +80,5 @@
 </div>
 
 <div align="center">
- <h6>Langauge DEV stacks: <a href="https://github.com/lucasFelixSilveira/morgana">Morgana</a>, LLVM & MLIR</h6>
+ <h6>Language DEV stacks: <a href="https://github.com/lucasFelixSilveira/morgana">Morgana</a>, LLVM & MLIR</h6>
 </div>
