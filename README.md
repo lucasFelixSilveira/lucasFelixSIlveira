@@ -58,7 +58,7 @@
           </td>
           <td>
             <h2>My own IR language</h2>
-            <p>Meet Morgana, the new IR language, simple and complation-time-fast than LLVM</p>
+            <p>Meet Morgana, the new IR language, simple and compilation-time-fast than LLVM</p>
             <a href="https://github.com/lucasFelixSilveira/carla" target="_blank">
             <img width="130px" src="https://img.shields.io/badge/Meet%20Morgana-dd71ba">
             </a>
