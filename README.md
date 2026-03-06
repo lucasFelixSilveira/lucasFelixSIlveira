@@ -72,7 +72,7 @@
             <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=runa" alt="Runa"> 
           </td>
           <td>
-            <h2>My LUA interpreter</h2>
+            <h2>My own LUA interpreter</h2>
             <p>Meet Runa, the most compacted C API to run Lua. Runa was made to be used in <a href="https://github.com/Carla-corp/extensors">Morgana Extensors</a></p>
             <a href="https://github.com/lucasFelixSilveira/carla" target="_blank">
             <img width="110px" src="https://img.shields.io/badge/Meet%20Runa-442370">
