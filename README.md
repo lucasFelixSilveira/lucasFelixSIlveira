@@ -20,7 +20,7 @@
           <td>
             <!-- <img width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&layout=pie&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0" alt="Top Langs"> -->
             <!-- <img width="900px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasFelixSilveira&theme=monokai&exclude=JavaScript" alt="Top langs"> -->
-             <img width="900px" src="https://personal-wakatime.vercel.app/amount?username=lucasFelixSilveira" alt="language coded">
+             <img width="900px" src="https://personal-wakatime.vercel.app/amount?username=lucasFelixSilveira&remove=JavaScript" alt="language coded">
           </td>
         </tr> 
         <tr>
