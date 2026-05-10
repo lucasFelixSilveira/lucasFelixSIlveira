@@ -1,6 +1,6 @@
 ## Lucas Silveira 🥀
 #### [BFlex Group](#)'s Developer - A coffee, a keyboard and a life. 
-- ` Programming is therapy! 🙏` | ` 僕は日本語は学生です 🎓 ` | ` 0x10 `
+- ` 0x10 `
 <h5>
   <details>
     <summary align="left">Personal things</summary>
