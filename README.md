@@ -60,7 +60,7 @@
           <td>
             <h2>My own IR language</h2>
             <p>Meet Morgana, the new IR language, simple and compilation-time-fast than LLVM</p>
-            <a href="https://github.com/lucasFelixSilveira/carla" target="_blank">
+            <a href="https://github.com/lucasFelixSilveira/morgana" target="_blank">
             <img width="130px" src="https://img.shields.io/badge/Meet%20Morgana-dd71ba">
             </a>
             <br>
@@ -75,7 +75,7 @@
           <td>
             <h2>My own LUA interpreter</h2>
             <p>Meet Runa, the most compacted C API to run Lua. Runa was made to be used in <a href="https://github.com/Carla-corp/extensors">Morgana Extensors</a></p>
-            <a href="https://github.com/lucasFelixSilveira/carla" target="_blank">
+            <a href="https://github.com/lucasFelixSilveira/runa" target="_blank">
             <img width="110px" src="https://img.shields.io/badge/Meet%20Runa-442370">
             </a>
             <br>
